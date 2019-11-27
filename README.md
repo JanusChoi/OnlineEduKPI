@@ -35,6 +35,14 @@
 
 如果你符合以上条件并对该项目感兴趣，请点击[这里](https://github.com/JanusChoi/OnlineEduKPI/issues/1)说说你对该项目的期望吧！
 
+Python免费学习资源
+
+- 莫凡Python（偏向机器学习）：https://morvanzhou.github.io/
+- Python - 100天从新手到大师：https://github.com/jackfrued/Python-100-Days
+- Python招聘网站爬虫合集：https://github.com/Hopetree/Jobs-search
+- 草根学Python：https://www.readwithu.com/
+- Python官方教程，可当作工具书使用：https://docs.python.org/zh-cn/3/tutorial/index.html
+
 ## 清单
 
 问题及关键词收集清单：
